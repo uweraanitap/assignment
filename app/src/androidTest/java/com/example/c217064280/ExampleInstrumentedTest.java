@@ -1,4 +1,4 @@
-package com.example.c217064280;
+package com.example.anitha;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.c217064280", appContext.getPackageName());
+        assertEquals("com.example.c217144411", appContext.getPackageName());
     }
 }
